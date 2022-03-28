@@ -10,7 +10,10 @@ Here are some ideas to get you started: -->
 - 📘 PowerShell imposter
 - 📓 Python newb
 - 🐼 Aspiring Big Game Hunter 🐻
-- ⚔️ Blueteam Defender
+- ⚔️ Defender
+
+## A place to upload scripts I use
+- 📜
 
 
 
